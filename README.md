@@ -16,11 +16,11 @@ The data was cleaned to handle missing values, outliers, and perform encoding of
 We explored data distributions and relationships between features to understand the dynamics influencing transactions. The visualizations below depict various aspects of the data:
 
 ### Transaction Amount Distribution
-![Transaction Amount Distribution](./images/transaction_amount_distribution.png)
+![Transaction Amount Distribution](./analysis_img/total_amount.png)
 
 ### Feature Correlations
 Understanding correlations between features helps in determining redundant features and understanding feature interactions.
-![Feature Correlations](./images/feature_correlations.png)
+![Feature Correlations](./analysis_img/feature_corr.png)
 
 ## Model Building & Evaluation
 We built several models to evaluate their performance in detecting fraudulent transactions. Below are some highlights from the modeling phase:
